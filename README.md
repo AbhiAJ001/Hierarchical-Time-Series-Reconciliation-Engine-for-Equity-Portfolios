@@ -9,17 +9,6 @@
 
 ---
 
-## 📌 Academic Context
-
-* **Course:** Applied Time Series Analysis (B.Tech AIML, Semester VII)
-* **Institution:** SVKM's NMIMS Mukesh Patel School of Technology Management & Engineering (MPSTME), Shirpur Campus
-* **Authors:**
-  * Jayesh Patil (Roll: C233)
-  * Abhijit Patil (Roll: C263)
-  * Ritesh Pawar (Roll: C276)
-
----
-
 ## 📖 Executive Summary & Problem Formulation
 
 In quantitative portfolio management, risk and asset managers require simultaneous forecasts at multiple aggregation levels: individual stocks, industry sectors, and total portfolio value. However, forecasting each node independently using univariate or machine learning models invariably produces **incoherent forecasts**—i.e., the sum of asset forecasts does not equal the sector forecast, and the sum of sector forecasts fails to match the total portfolio forecast:
